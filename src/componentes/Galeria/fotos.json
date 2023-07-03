@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "Ponte Golden Gate",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/ponteGolden.jpg",
+    "id": "1",
+    "tag": "Pontes"
+  },
+  {
+    "titulo": "Grande Muralha Da China",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/muralhaChina.jpg",
+    "id": "2",
+    "tag": "Obras"
+  },
+  {
+    "titulo": "Coiseu de Roma",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/coliseuRoma.jpg",
+    "id": "3",
+    "tag": "Construção"
+  },
+  {
+    "titulo": "Barragem Três Gargantas",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/barragem.jpg",
+    "id": "4",
+    "tag": "Projetos"
+  },
+  {
+    "titulo": "Castelo de Windsor",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/castelo.jpg",
+    "id": "5",
+    "tag": "Construção"
+  },
+  {
+    "titulo": "estação Waleed Khalid Bin",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/estacao.jpg",
+    "id": "6",
+    "tag": "Obras"
+  },
+  {
+    "titulo": "Bhadla Solar Park",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/solarPark.jpg",
+    "id": "7",
+    "tag": "Projetos"
+  },
+  {
+    "titulo": "Ferrovia Transcontinental",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/ferrovia.jpg",
+    "id": "8",
+    "tag": "Obras"
+  },
+  {
+    "titulo": "Casa com impressora 3D",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/3D.jpg",
+    "id": "9",
+    "tag": "Construção"
+  },
+  {
+    "titulo": "Rodovia Solar",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/rodovia.jpg",
+    "id": "10",
+    "tag": "Estradas"
+  }
+]

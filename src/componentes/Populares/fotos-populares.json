@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/assets/imagens/populares/foto-1.jpg",
+    "alt": "galáxia",
+    "id": 1
+  },
+  {
+    "path": "/assets/imagens/populares/foto-2.jpg",
+    "alt": "lua",
+    "id": 2
+  },
+  {
+    "path": "/assets/imagens/populares/foto-3.jpg",
+    "alt": "terra",
+    "id": 3
+  },
+  {
+    "path": "/assets/imagens/populares/foto-4.jpg",
+    "alt": "nuvem",
+    "id": 4
+  },
+  {
+    "path": "/assets/imagens/populares/foto-5.jpg",
+    "alt": "meteoro",
+    "id": 5
+  },
+  {
+    "path": "/assets/imagens/populares/foto-6.jpg",
+    "alt": "meteoro",
+    "id": 6
+  }
+]
